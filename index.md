@@ -5,7 +5,7 @@
 ## Mi primer proyecto
 [Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
 
-Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://	https://medium.com/@medellins
+Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/@medellins
 ) o [Ver código en GitHub](https://github.com/tu-repo)
 
 [<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
